@@ -3,7 +3,7 @@
 To build an end-to-end chatbot using Python, the process typically involves several steps. First, conversational data is collected from various sources such as online chat logs and customer service records. This data is then preprocessed, including tasks like tokenization, stemming, lemmatization, and stop word removal. Next, a suitable machine learning algorithm is chosen to train the chatbot model, which can be rule-based, retrieval-based, or generative. 
 The chatbot is then tested with real users, and their feedback is collected. Based on the feedback, the model can be improved. 
 
-For Running the code :
+To Execute the code :
       
       1)  open terminal.
       
