@@ -4,6 +4,9 @@ To build an end-to-end chatbot using Python, the process typically involves seve
 The chatbot is then tested with real users, and their feedback is collected. Based on the feedback, the model can be improved. 
 
 For Running the code :
-       1)  open terminal.
-       2)  type "streamlit run filename.py"
-       3)  make sure you install streamlit library in your vscode/pycharm. 
+      
+      1)  open terminal.
+      
+      2)  type "streamlit run filename.py"
+       
+      3)  make sure you install streamlit library in your vscode/pycharm. 
